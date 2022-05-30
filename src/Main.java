@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args){
+
         String name = "Xusnidin ";
         String aa = " OK ";
         Integer a =12;
@@ -7,6 +8,7 @@ public class Main {
         Integer c = a+b;
 
         System.out.println(name + c + aa);
+
     }
 
 }
